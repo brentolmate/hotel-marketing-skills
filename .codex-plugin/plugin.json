@@ -1,0 +1,18 @@
+{
+  "name": "hotel-marketing",
+  "version": "1.1.0",
+  "description": "Plan de marketing hotelero, reactivación de huéspedes y seguimiento de solicitudes en español de México.",
+  "author": { "name": "ExpertoSEO.mx", "url": "https://expertoseo.mx/" },
+  "homepage": "https://github.com/brentolmate/hotel-marketing-skills",
+  "repository": "https://github.com/brentolmate/hotel-marketing-skills",
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Marketing hotelero · ExpertoSEO",
+    "shortDescription": "Planes, reactivación y seguimiento para hoteles",
+    "longDescription": "Tres skills en español de México para hoteles, resorts, retiros y villas. Preparan estrategias y borradores; no envían mensajes ni modifican reservas.",
+    "developerName": "ExpertoSEO.mx",
+    "category": "Productivity",
+    "websiteURL": "https://expertoseo.mx/"
+  }
+}

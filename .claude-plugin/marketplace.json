@@ -1,0 +1,12 @@
+{
+  "name": "expertoseo",
+  "description": "Skills de marketing hotelero en español de México.",
+  "owner": { "name": "ExpertoSEO.mx" },
+  "plugins": [
+    {
+      "name": "hotel-marketing",
+      "source": "./",
+      "description": "Plan de marketing, reactivación y seguimiento para hoteles, resorts, retiros y villas."
+    }
+  ]
+}
