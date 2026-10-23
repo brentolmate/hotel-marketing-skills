@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan de marketing hotelero"
+  short_description: "Prioridades y acciones para hoteles en México"
+  default_prompt: "Usa $hotel-marketing-plan para preparar un plan de marketing hotelero en español de México."

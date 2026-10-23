@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reactivación de huéspedes"
+  short_description: "Campañas para invitar a huéspedes a regresar"
+  default_prompt: "Usa $hotel-guest-reactivation para preparar una campaña de regreso en español de México."

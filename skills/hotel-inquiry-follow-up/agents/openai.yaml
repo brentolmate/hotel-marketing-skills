@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seguimiento de solicitudes"
+  short_description: "Respuestas y seguimiento de reservas hoteleras"
+  default_prompt: "Usa $hotel-inquiry-follow-up para preparar el seguimiento de una solicitud de reserva en español de México."
